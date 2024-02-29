@@ -1,1 +1,2 @@
-# Ritul-Creations
+#Codeforces-Solution
+by 'Ritul'
