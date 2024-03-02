@@ -1,5 +1,4 @@
 # Codeforces Solution
-by "Ritul"
 This repository contains my solutions of Codeforces problems. They are in C++ language.
 # About Me 👀
 I am Ritul Patel.  <br />
